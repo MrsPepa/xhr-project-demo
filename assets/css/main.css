@@ -29,3 +29,17 @@ body {
   background-color: darksalmon;
   font-family: 'Handlee', cursive;
 }
+.site-container {
+  background-color: lightcyan;
+}
+#response-container {
+  width: 37em;
+  height: auto;
+}
+.articleClass {
+  list-style: none;
+  border: 1px solid gray;
+  width: 100%;
+  border-radius: 3px;
+  margin-bottom: 1em;
+}
